@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pressed">#74AFAD</color>
+    <color name="normal">#ECECEA</color>
+    <color name="reg">#123456</color>
+    <color name="non_reg">#00000000</color>
+</resources>
